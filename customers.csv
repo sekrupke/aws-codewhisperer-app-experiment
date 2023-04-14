@@ -1,0 +1,101 @@
+Nr.,Anrede,Titel,Vorname,Nachname,Geburtsdatum,Straße,PLZ,Stadt,Telefon,Mobil,Telefax,E-Mail,Newsletter
+1, Herr ,, Carlo , Barilovic , 9.12.1942 , Agrippastr. 120 ,74177, Bad Friedrichshall , 07136 / 15330021 , 0166 / 5405190 , 07136 / 56330496 , c.barilovic@mail.xyz , ja
+2, Frau , Dr. , Mariella , Buchner , 16.11.1923 , Werkstattstr. 171 ,86926, Greifenberg , 08192 / 54591823 , 0154 / 1495072 , 08192 / 31070751 , m.buchner@mail.xyz , ja
+3, Herr ,, Ruben , Kaplan , 8.1.1949 , Oberschlesier Str. 181 ,56479, Rehe , 02664 / 45849887 , 0156 / 3422100 , 02664 / 94494106 , r.kaplan@mail.xyz , ja
+4, Herr ,, Louis , Morton , 12.2.1941 , Von-der-Tinnen-Str. 85 ,48488, Emsbären , 05903 / 61251033 , 0165 / 4150125 , 05903 / 57748169 , l.morton@mail.xyz , ja
+5, Frau ,, Larissa , Hilbig , 26.1.1924 , Mariendorfer Str. 3 ,29588, Oetzen , 05805 / 87686625 , 0179 / 7548020 , 05805 / 15693849 , l.hilbig@mail.xyz , ja
+6, Frau ,, Leonie , Finkenzeller , 16.6.1922 , Fresnostr. 143 ,27318, Hoyerhagen , 04251 / 26093967 , 0158 / 2180605 , 04251 / 43600156 , l.finkenzeller@mail.xyz , ja
+7, Frau ,, Saskia , Curry , 3.1.1980 , Uhuweg 51 ,86865, Markt Wald , 08262 / 74435219 , 0167 / 9041015 , 08262 / 55523663 , s.curry@mail.xyz , ja
+8, Herr ,, Mathias , Bishop , 5.12.1990 , Gildenstr. 73 ,91096, Mührendorf , 09131 / 98840634 , 0174 / 3643929 , 09131 / 8180539 , mathias.bishop@mail.xyz , ja
+9, Herr ,, Colin , Caspari , 16.2.1973 , Erikahof 91 ,66882, Hätschenhausen , 06372 / 59120313 , 0160 / 7890723 , 06372 / 56968329 , colin.caspari@mail.xyz , ja
+10, Herr ,, Michel , Remondis , 5.11.1988 , Dorbaumstr. 159 ,29596, Stadensen , 05802 / 92910160 , 0156 / 9117659 , 05802 / 58582926 , michel.remondis@mail.xyz , ja
+11, Herr ,, Torsten , Bennett , 16.8.1969 , Dauvemühle 74 ,25785, Odderade , 04832 / 64026409 , 0163 / 1310671 , 04832 / 82148882 , torsten.bennett@mail.xyz , ja
+12, Frau ,, Silke , Wehr , 2.1.1981 , Rosenplatz 38 ,47799, Krefeld , 02151 / 9544597 , 0156 / 3074744 , 02151 / 52177706 , silke.wehr@mail.xyz , ja
+13, Herr ,, Timon , Seybold , 15.1.1985 , Werseblick 158 ,23619, Mänkhagen , 04533 / 30696831 , 0162 / 2361361 , 04533 / 29101412 , t.seybold@mail.xyz , ja
+14, Herr , Prof. , Damian , Kallweit , 3.9.1972 , Wolbecker Str. 31 ,34130, Kassel , 0561 / 94483917 , 0167 / 9869637 , 0561 / 57065474 , d.kallweit@mail.xyz , ja
+15, Frau ,, Jill , Böhm , 7.6.1921 , Klinkkampweg 156 ,86694, Niederschönenfeld , 09090 / 61279755 , 0153 / 4049363 , 09090 / 15891213 , j.boehm@mail.xyz , ja
+16, Frau ,, Fabienne , Rhodes , 12.2.1994 , Hindenburgplatz 11a ,76889, Niederhorbach , 06343 / 52812029 , 0156 / 2102632 , 06343 / 48255067 , fabienne.rhodes@mail.xyz , ja
+17, Herr , Dr. , Alexander , Hackl , 16.5.1962 , Marderweg 99 ,25774, Groven , 04882 / 64071370 , 0172 / 6089939 , 04882 / 59275100 , alexander.hackl@mail.xyz , ja
+18, Frau ,, Barbara , Dammann , 7.2.1986 , Manfred-von-Richthofen-Str. 2 ,57586, Weitefeld , 02743 / 64865410 , 0162 / 9905683 , 02743 / 88385128 , barbara.dammann@mail.xyz , ja
+19, Frau ,, Marlis , Dreher , 7.9.1964 , Wormser Str. 66 ,99880, Metebach , 03622 / 76020663 , 0167 / 7270617 , 03622 / 93560602 , m.dreher@mail.xyz , ja
+20, Frau ,, Nelli , Lawrence , 7.4.1993 , An Lyskirchen 79 ,1640, Coswig , 03523 / 84798184 , 0150 / 3958003 , 03523 / 10508643 , n.lawrence@mail.xyz , ja
+21, Frau ,, Hildegard , Wieczorek , 1.3.1924 , Methweg 171 ,37130, Gleichen , 0551 / 52569784 , 0172 / 6310371 , 0551 / 74743421 , hildegard.wieczorek@mail.xyz , ja
+22, Frau ,, Melina , Sievers , 7.1.1967 , Am Dornbusch 108 ,54533, Gransdorf , 06563 / 25081403 , 0179 / 5671211 , 06563 / 75076483 , melina.sievers@mail.xyz , ja
+23, Herr ,, Anthony , Haynes , 27.8.1964 , Stettiner Str. 166 ,91578, Leutershausen , 09823 / 89027836 , 0172 / 7603103 , 09823 / 957224 , anthony.haynes@mail.xyz , ja
+24, Frau ,, Mina , Peitz , 3.12.1972 , Grevener Str. 149 ,67133, Maxdorf , 06237 / 54977187 , 0168 / 9172304 , 06237 / 2106740 , mina.peitz@mail.xyz , ja
+25, Frau ,, Samira , Weis , 2.12.1951 , Papenbusch 105 ,96484, Meeder , 09566 / 17964567 , 0155 / 6469396 , 09566 / 45288491 , samira.weis@mail.xyz , ja
+26, Frau ,, Melina , Montgomery , 8.5.1961 , Oscar-Wilde-Str. 42 ,99718, Topfstedt , 03636 / 27761244 , 0166 / 8254936 , 03636 / 73052220 , m.montgomery@mail.xyz , ja
+27, Frau ,, Stella , Dietrich , 5.10.1925 , Wiedehagen 189 ,91207, Lauf an der Pegnitz , 09123 / 8363447 , 0162 / 8023355 , 09123 / 22206701 , s.dietrich@mail.xyz , ja
+28, Frau ,, Alina , Hinrichs , 5.6.1986 , Hindenburgplatz 61 ,24321, Klamp , 04381 / 15083774 , 0154 / 3684494 , 04381 / 12826735 , a.hinrichs@mail.xyz , ja
+29, Frau ,, Anke , Mohr , 20.10.1986 , Mondstr. 149 ,97348, Markt Einersheim , 09326 / 32522893 , 0170 / 8718960 , 09326 / 84506775 , anke.mohr@mail.xyz , ja
+30, Herr ,, Sam , Seibel , 17.12.1975 , Eifelstr. 159 ,94148, Kirchham , 08533 / 50967938 , 0177 / 3826948 , 08533 / 8176473 , s.seibel@mail.xyz , ja
+31, Frau ,, Isabelle , Nolte , 8.12.1958 , Gildenstr. 32 ,99428, Daasdorf am Berge , 03643 / 64624674 , 0155 / 9923086 , 03643 / 18156838 , i.nolte@mail.xyz , ja
+32, Frau ,, Isabell , Chapman , 24.9.1978 , Sanddornweg 177 ,65510, Hänstetten , 06126 / 38291397 , 0158 / 8951638 , 06126 / 65481196 , i.chapman@mail.xyz , ja
+33, Herr ,, Noel , Hamann , 21.1.1945 , Münsterstr. 53 ,54673, Scheitenkorb , 06564 / 29832338 , 0174 / 6161569 , 06564 / 49680383 , noel.hamann@mail.xyz , ja
+34, Herr ,, Noel , Rosenberger , 17.5.1957 , Ostmarkstr. 46 ,90542, Eckental , 09126 / 3021764 , 0169 / 4696433 , 09126 / 46231316 , n.rosenberger@mail.xyz , ja
+35, Herr ,, Phillip , Uhlenbrock , 4.1.1937 , Angelmodder Weg 139a ,37218, Witzenhausen , 05542 / 25436943 , 0165 / 6975271 , 05542 / 70972601 , phillip.uhlenbrock@mail.xyz , ja
+36, Herr ,, Matteo , Gabel , 12.11.1944 , Telemannstr. 17 ,76857, Silz , 06346 / 44764948 , 0156 / 1673431 , 06346 / 15346249 , matteo.gabel@mail.xyz , ja
+37, Herr ,, Rolf , Manske , 25.3.1961 , Heinrichstr. 35 ,54451, Irsch , 06581 / 52730745 , 0170 / 3283481 , 06581 / 58909097 , r.manske@mail.xyz , ja
+38, Herr ,, Thies , Bartmann , 3.10.1973 , Starweg 64 ,36320, Kirtorf , 06635 / 20983242 , 0157 / 9300842 , 06635 / 39476907 , thies.bartmann@mail.xyz , ja
+39, Herr ,, Otto , Diekmann , 2.2.1938 , Dreizehnerstr. 145 ,97456, Dittelbrunn , 09721 / 66643815 , 0159 / 4096891 , 09721 / 83903898 , o.diekmann@mail.xyz , ja
+40, Herr ,, Dirk , Long , 26.9.1963 , Gasselstiege 184 ,56850, Enkirch , 06541 / 78779122 , 0171 / 3192643 , 06541 / 80847229 , dirk.long@mail.xyz , ja
+41, Herr ,, Timon , Ortega , 27.11.1973 , Kochwiesenstr. 94 ,76189, Karlsruhe , 0721 / 35103899 , 0170 / 4630862 , 0721 / 38078615 , t.ortega@mail.xyz , ja
+42, Frau ,, Mia , Dreher , 24.2.1998 , Zur Wiese 114 ,39110, Magdeburg , 0391 / 78541971 , 0177 / 7033918 , 0391 / 71435907 , m.dreher@mail.xyz , ja
+43, Herr ,, Dario , Cohen , 26.5.1975 , Willingrott 189 ,54320, Waldrach , 06500 / 40801437 , 0157 / 6184099 , 06500 / 43318393 , dario.cohen@mail.xyz , ja
+44, Frau ,, Svea , Sharp , 15.12.1987 , Im Sonnentau 99 ,17237, Klein Vielen , 03981 / 16879708 , 0177 / 3818510 , 03981 / 31222546 , s.sharp@mail.xyz , ja
+45, Frau ,, Martina , Zapf , 11.12.1969 , Hofstr. 3 ,6618, Schönburg , 03445 / 48897673 , 0163 / 8251332 , 03445 / 12870693 , m.zapf@mail.xyz , ja
+46, Herr ,, Jannick , Kasten , 12.6.1926 , Studtstr. 115 ,1109, Dresden , 0351 / 73337833 , 0160 / 9651028 , 0351 / 46182362 , j.kasten@mail.xyz , ja
+47, Frau ,, Ute , Weinmann , 1.4.1921 , Manfred-von-Richthofen-Str. 166 ,80637, München , 089 / 26505304 , 0164 / 2185992 , 089 / 57117447 , ute.weinmann@mail.xyz , ja
+48, Herr ,, Kurt , Landau , 22.4.1997 , Hogenbergstr. 124a ,57632, Eichen , 02685 / 2058847 , 0162 / 7506378 , 02685 / 850438 , k.landau@mail.xyz , ja
+49, Herr ,, Philipp , Lederer , 9.5.1989 , Dammstr. 74 ,36167, Nüsttal , 06684 / 48344427 , 0153 / 1647383 , 06684 / 96033367 , philipp.lederer@mail.xyz , ja
+50, Frau ,, Charlotte , Häcker , 10.4.1936 , Dingbüngerweg 45 ,21447, Handorf , 04131 / 66343532 , 0165 / 9305287 , 04131 / 61403386 , charlotte.haecker@mail.xyz , ja
+51, Herr ,, Elias , Maack , 26.11.1975 , Goldregenweg 69 ,46535, Dinslaken , 02064 / 72057711 , 0173 / 2826069 , 02064 / 68822559 , e.maack@mail.xyz , ja
+52, Herr ,, Henning , Seliger , 10.7.1986 , Jakobusstr. 38 ,54340, Klüsserath , 06502 / 70122539 , 0173 / 7652293 , 06502 / 56962708 , henning.seliger@mail.xyz , ja
+53, Herr ,, Phillip , Garza , 24.5.1992 , Eifelstr. 13 ,27324, Eystrup , 04254 / 17837452 , 0160 / 7482248 , 04254 / 6393174 , phillip.garza@mail.xyz , ja
+54, Frau ,, Anica , Gross , 6.6.1937 , Heinrichstr. 166 ,88379, Guggenhausen , 07503 / 21985435 , 0156 / 8689815 , 07503 / 27788197 , a.gross@mail.xyz , ja
+55, Herr ,, Günther , Silva , 20.7.1939 , Hogenbergstr. 124 ,54552, Neichen , 02692 / 16113330 , 0152 / 7097902 , 02692 / 80441595 , guenther.silva@mail.xyz , ja
+56, Herr ,, Julius , Schüller , 26.6.1979 , Sentmaringer Weg 134 ,94336, Hunderdorf , 09422 / 76673801 , 0150 / 1336605 , 09422 / 81655719 , j.schueller@mail.xyz , ja
+57, Frau ,, Malin , Krull , 4.2.1920 , Liboristr. 91 ,60528, Frankfurt am Main , 069 / 74155588 , 0179 / 3736611 , 069 / 23563520 , malin.krull@mail.xyz , ja
+58, Frau ,, Anja , Körber , 9.5.1926 , Im Haubenfeld 146 ,73447, Oberkochen , 07364 / 33189786 , 0171 / 4305204 , 07364 / 37055913 , a.koerber@mail.xyz , ja
+59, Herr ,, Cedric , Murray , 16.8.1972 , Widdeshover Weg 64 ,54636, Eßlingen , 06561 / 90670504 , 0161 / 9602024 , 06561 / 77410502 , c.murray@mail.xyz , ja
+60, Frau ,, Meike , Schönfeld , 6.3.1939 , Johanniterstr. 42a ,54646, Niehl , 06564 / 8053171 , 0158 / 4191311 , 06564 / 67057723 , m.schoenfeld@mail.xyz , ja
+61, Herr ,, Leif , Schultz , 4.5.1942 , Mierendorffstr. 167 ,39387, Hornhausen , 03949 / 87550733 , 0156 / 5098531 , 03949 / 16230026 , leif.schultz@mail.xyz , ja
+62, Frau ,, Brigitte , Springer , 6.8.1951 , Weserstr. 140 ,65551, Limburg an der Lahn , 06431 / 88377296 , 0164 / 3631647 , 06431 / 25467214 , b.springer@mail.xyz , ja
+63, Herr ,, Thorsten , Dixon , 14.5.1958 , Wiedehagen 148 ,79541, Lürrach , 07621 / 25256583 , 0172 / 4269726 , 07621 / 43358127 , t.dixon@mail.xyz , ja
+64, Frau ,, Luise , Brown , 21.9.1943 , Handorfer Str. 93 ,72649, Wolfschlugen , 07022 / 27212998 , 0170 / 2972228 , 07022 / 37368270 , luise.brown@mail.xyz , ja
+65, Herr ,, Friedrich , Schuh , 16.7.1978 , Am Nubbenberg 31 ,84163, Marklkofen , 08732 / 18449557 , 0175 / 7138547 , 08732 / 24375443 , f.schuh@mail.xyz , ja
+66, Frau ,, Anette , McDaniel , 3.6.1925 , Räckertstr. 133 ,56244, Weidenhahn , 02626 / 50898955 , 0159 / 5177436 , 02626 / 67467667 , anette.mcdaniel@mail.xyz , ja
+67, Frau ,, Antonia , Chavez , 10.12.1994 , Weserstr. 73 ,73432, Arlesberg , 07367 / 6566662 , 0155 / 7954397 , 07367 / 64349478 , antonia.chavez@mail.xyz , ja
+68, Herr ,, Justin , Cole , 16.5.1942 , Wollinstr. 199 ,95111, Rehau , 09283 / 93798721 , 0178 / 3510045 , 09283 / 82868782 , justin.cole@mail.xyz , ja
+69, Frau ,, Bettina , Warneke , 4.10.1933 , Hirseweg 25 ,25724, Neufelderkoog , 04851 / 27632455 , 0167 / 5355519 , 04851 / 76697533 , b.warneke@mail.xyz , ja
+70, Frau ,, Smilla , Petermann , 13.1.1979 , Böttcherstr. 10 ,58300, Wetter an der Ruhr , 02335 / 99998790 , 0158 / 8565437 , 02335 / 94769395 , s.petermann@mail.xyz , ja
+71, Frau , Dr. , Maike , Bartsch , 8.11.1960 , Sternstr. 126 ,56288, Hollnich , 06762 / 1712071 , 0163 / 4637491 , 06762 / 62852131 , maike.bartsch@mail.xyz , ja
+72, Frau ,, Sophie , Kähler , 1.2.1976 , Erikahof 142 ,21734, Oederquart , 04779 / 38830861 , 0153 / 8731387 , 04779 / 34562386 , s.koehler@mail.xyz , ja
+73, Frau ,, Isabella , Bormann , 13.6.1933 , Am Krausen Baum 131 ,56767, Mosbruch , 02692 / 63681827 , 0156 / 5210290 , 02692 / 91291083 , i.bormann@mail.xyz , ja
+74, Frau ,, Ronja , Clemens , 21.1.1973 , Heisstr. 117 ,27251, Scholen , 04277 / 49403081 , 0151 / 5751433 , 04277 / 16450196 , r.clemens@mail.xyz , ja
+75, Frau ,, Lea , Reinhardt , 15.12.1937 , Kempener Str. 70 ,35584, Wetzlar , 06441 / 32745900 , 0174 / 9094842 , 06441 / 95899992 , lea.reinhardt@mail.xyz , ja
+76, Herr ,, Patrick , Seiffert , 11.9.1924 , Goebenstr. 117 ,44263, Dortmund , 0231 / 64983842 , 0177 / 8110346 , 0231 / 7251428 , patrick.seiffert@mail.xyz , ja
+77, Herr ,, Mathies , Gaus , 13.2.1981 , Am Grauen Stein 41 ,93333, Neustadt an der Donau , 09445 / 59287992 , 0177 / 7747924 , 09445 / 91880013 , m.gaus@mail.xyz , ja
+78, Frau ,, Maria , Kersten , 12.6.1996 , Hofstr. 128 ,72644, Oberboihingen , 07022 / 51565771 , 0168 / 3713403 , 07022 / 45357350 , maria.kersten@mail.xyz , ja
+79, Frau ,, Louise , Krebs , 9.8.1925 , Dammstr. 78 ,1156, Dresden , 0351 / 5369436 , 0174 / 8947020 , 0351 / 38923570 , l.krebs@mail.xyz , ja
+80, Frau ,, Margot , Reimer , 7.4.1995 , Enschedeweg 51 ,24241, Grevenkrug , 04322 / 67652048 , 0176 / 9609156 , 04322 / 5452708 , m.reimer@mail.xyz , ja
+81, Frau ,, Amy , Ehret , 12.2.1974 , Salzmannstr. 121 ,35043, Marburg , 06421 / 4751450 , 0165 / 7894031 , 06421 / 31829382 , amy.ehret@mail.xyz , ja
+82, Herr ,, Christof , Schwenke , 9.1.1959 , Heinrichstr. 6 ,54413, Rascheid , 06503 / 58362121 , 0150 / 4396140 , 06503 / 64846876 , c.schwenke@mail.xyz , ja
+83, Herr ,, Erwin , Allison , 9.9.1939 , Buldernweg 13 ,17192, Kargow , 03991 / 17348650 , 0170 / 2071790 , 03991 / 35211167 , erwin.allison@mail.xyz , ja
+84, Herr ,, Matthis , Gaida , 23.4.1982 , Breul 194 ,25836, Garding , 04862 / 46022558 , 0155 / 5037154 , 04862 / 91349848 , m.gaida@mail.xyz , ja
+85, Frau ,, Anouk , Chapman , 4.3.1923 , Eibenweg 40 ,54655, Etteldorf , 06563 / 87375950 , 0172 / 8915565 , 06563 / 50033042 , a.chapman@mail.xyz , ja
+86, Herr ,, Piet , Senger , 21.12.1920 , Catharina-Müller-Str. 56 ,86703, Rägling , 09094 / 69523497 , 0166 / 2252335 , 09094 / 57823600 , piet.senger@mail.xyz , ja
+87, Frau ,, Maja , Cooper , 13.10.1973 , Häfferstr. 101 ,41464, Neuss , 02131 / 99579788 , 0168 / 3524548 , 02131 / 14804272 , m.cooper@mail.xyz , ja
+88, Herr ,, Valentin , Castro , 25.11.1991 , Albachtener Str. 95a ,21516, Woltersdorf , 04542 / 41863729 , 0168 / 6829026 , 04542 / 15548155 , v.castro@mail.xyz , ja
+89, Frau ,, Tara , Andres , 5.10.1926 , Eifelstr. 62 ,64289, Darmstadt , 06151 / 81663050 , 0168 / 4153181 , 06151 / 96135066 , t.andres@mail.xyz , ja
+90, Herr ,, Georg , Orth , 6.3.1932 , Nieland 162 ,73240, Wendlingen am Neckar , 07024 / 81675926 , 0168 / 4632632 , 07024 / 9290172 , georg.orth@mail.xyz , ja
+91, Herr ,, Daniel , Steinmetz , 8.9.1987 , Uhuweg 105 ,54636, Altscheid , 06564 / 46852373 , 0179 / 6274228 , 06564 / 28511863 , d.steinmetz@mail.xyz , ja
+92, Herr ,, Mika , Welsch , 11.2.1978 , Am Brook 197 ,67657, Kaiserslautern , 0631 / 62187410 , 0154 / 1285443 , 0631 / 11010012 , m.welsch@mail.xyz , ja
+93, Herr ,, Riccardo , Radtke , 18.5.1936 , Nienkamp 69 ,27412, Westertimke , 04283 / 53174392 , 0153 / 1988671 , 04283 / 52331077 , r.radtke@mail.xyz , ja
+94, Herr ,, Bernt , Brauner , 6.1.1988 , Memmertweg 8 ,63916, Amorbach , 09373 / 83891947 , 0151 / 1214886 , 09373 / 2455093 , b.brauner@mail.xyz , ja
+95, Frau ,, Nadine , Hacker , 26.3.1958 , Möserweg 120 ,71282, Hemmingen , 07150 / 54711584 , 0175 / 1448044 , 07150 / 76503129 , n.hacker@mail.xyz , ja
+96, Herr , Prof. , Frederic , Schleicher , 10.7.1924 , Hülsebrockstr. 171 ,24619, Bornhöved , 04323 / 80472689 , 0179 / 6407883 , 04323 / 29346063 , frederic.schleicher@mail.xyz , ja
+97, Herr , Dr. , Yannis , Behrend , 11.4.1923 , Hofstr. 152 ,49196, Bad Laer , 05424 / 66193362 , 0160 / 6679993 , 05424 / 48660283 , y.behrend@mail.xyz , ja
+98, Frau ,, Lilian , Kahl , 23.11.1952 , Mecklenbecker Str. 129 ,67065, Ludwigshafen am Rhein , 0621 / 70384375 , 0171 / 1654768 , 0621 / 18501075 , lilian.kahl@mail.xyz , ja
+99, Herr ,, Jürgen , Hagemann , 1.7.1994 , Schützenstr. 174 ,69517, Gorxheimertal , 06201 / 64090892 , 0170 / 3264199 , 06201 / 72102952 , j.hagemann@mail.xyz , ja
+100, Frau ,, Elke , Herkules , 10.8.1990 , Breul 165 ,38553, Wasbüttel , 05374 / 84038011 , 0152 / 1235464 , 05374 / 79925082 , e.herkules@mail.xyz , ja
